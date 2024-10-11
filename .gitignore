@@ -1,0 +1,15 @@
+# Node modules directory
+node_modules/
+
+# Logs
+*.log
+
+# Environment variable file
+.env
+
+# TypeScript cache and build files (if you use TypeScript later)
+dist/
+*.tsbuildinfo
+
+# macOS system files
+.DS_Store
